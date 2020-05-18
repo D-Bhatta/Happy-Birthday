@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="wish">Happy Birthday Kitty!</string>
+    <string name="wish_salutation">From, Debabrata</string>
+    <string name="content_description_androidparty">Background Image: 2 Android toys dressed up and having a party</string>
+</resources>
